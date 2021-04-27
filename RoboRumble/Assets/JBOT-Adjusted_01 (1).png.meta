@@ -1,0 +1,1188 @@
+fileFormatVersion: 2
+guid: 6ff1146773aa848cf8e3ad809488ea2b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6362229759001635858
+    second: JBOT-Adjusted_01 (1)_0
+  - first:
+      213: 5114007886685256277
+    second: JBOT-Adjusted_01 (1)_1
+  - first:
+      213: 4315156354080222456
+    second: JBOT-Adjusted_01 (1)_2
+  - first:
+      213: 7905880959150467058
+    second: JBOT-Adjusted_01 (1)_3
+  - first:
+      213: 8575053296902844558
+    second: JBOT-Adjusted_01 (1)_4
+  - first:
+      213: 3376009733988462892
+    second: JBOT-Adjusted_01 (1)_5
+  - first:
+      213: -4394997208073694797
+    second: JBOT-Adjusted_01 (1)_6
+  - first:
+      213: -5334190087078783213
+    second: JBOT-Adjusted_01 (1)_7
+  - first:
+      213: -1894948795436548928
+    second: JBOT-Adjusted_01 (1)_8
+  - first:
+      213: 4643744025120097430
+    second: JBOT-Adjusted_01 (1)_9
+  - first:
+      213: 4558162616519804532
+    second: JBOT-Adjusted_01 (1)_10
+  - first:
+      213: -636486605275452870
+    second: JBOT-Adjusted_01 (1)_11
+  - first:
+      213: -1356797049608635243
+    second: JBOT-Adjusted_01 (1)_12
+  - first:
+      213: -1559933888706399628
+    second: JBOT-Adjusted_01 (1)_13
+  - first:
+      213: -1038567355962140236
+    second: JBOT-Adjusted_01 (1)_14
+  - first:
+      213: 2337074445449015508
+    second: JBOT-Adjusted_01 (1)_15
+  - first:
+      213: 3210721157448492631
+    second: JBOT-Adjusted_01 (1)_16
+  - first:
+      213: -8967560206172369606
+    second: JBOT-Adjusted_01 (1)_17
+  - first:
+      213: 3419352741294939620
+    second: JBOT-Adjusted_01 (1)_18
+  - first:
+      213: -756985474295279452
+    second: JBOT-Adjusted_01 (1)_19
+  - first:
+      213: 1733735348660257315
+    second: JBOT-Adjusted_01 (1)_20
+  - first:
+      213: -1090328923875273524
+    second: JBOT-Adjusted_01 (1)_21
+  - first:
+      213: 3414753983720850024
+    second: JBOT-Adjusted_01 (1)_22
+  - first:
+      213: 2692251863484459723
+    second: JBOT-Adjusted_01 (1)_23
+  - first:
+      213: -2656864695955819804
+    second: JBOT-Adjusted_01 (1)_24
+  - first:
+      213: -196700613194983367
+    second: JBOT-Adjusted_01 (1)_25
+  - first:
+      213: 1877616819915590226
+    second: JBOT-Adjusted_01 (1)_26
+  - first:
+      213: 2298508817779686040
+    second: JBOT-Adjusted_01 (1)_27
+  - first:
+      213: 6614051697214494377
+    second: JBOT-Adjusted_01 (1)_28
+  - first:
+      213: 426700916558532396
+    second: JBOT-Adjusted_01 (1)_29
+  - first:
+      213: -8580573277550649351
+    second: JBOT-Adjusted_01 (1)_30
+  - first:
+      213: -9159755500115481131
+    second: JBOT-Adjusted_01 (1)_31
+  - first:
+      213: -2169099511875933871
+    second: JBOT-Adjusted_01 (1)_32
+  - first:
+      213: -3850111195617914335
+    second: JBOT-Adjusted_01 (1)_33
+  - first:
+      213: -2699488836479182844
+    second: JBOT-Adjusted_01 (1)_34
+  - first:
+      213: -2765935412376796378
+    second: JBOT-Adjusted_01 (1)_35
+  - first:
+      213: -3293301575113146515
+    second: JBOT-Adjusted_01 (1)_36
+  - first:
+      213: 3494644381959844509
+    second: JBOT-Adjusted_01 (1)_37
+  - first:
+      213: 5604994129855294135
+    second: JBOT-Adjusted_01 (1)_38
+  - first:
+      213: 7381964555720995754
+    second: JBOT-Adjusted_01 (1)_39
+  - first:
+      213: 765097046622117786
+    second: JBOT-Adjusted_01 (1)_40
+  - first:
+      213: -7361856583563323691
+    second: JBOT-Adjusted_01 (1)_41
+  - first:
+      213: 7634120309979107729
+    second: JBOT-Adjusted_01 (1)_42
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JBOT-Adjusted_01 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 364
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c26bcd14e2b4850800000000000000
+      internalID: 6362229759001635858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBOT-Adjusted_01 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 364
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55abb68e31b98f640800000000000000
+      internalID: 5114007886685256277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBOT-Adjusted_01 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 364
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fca83367d382eb30800000000000000
+      internalID: 4315156354080222456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBOT-Adjusted_01 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 364
+        width: 21
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f720be58d457bd60800000000000000
+      internalID: 7905880959150467058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBOT-Adjusted_01 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 364
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80bfeb7a85b00770800000000000000
+      internalID: 8575053296902844558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBOT-Adjusted_01 (1)_5
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 364
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21b4a857fef9de20800000000000000
+      internalID: 3376009733988462892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBOT-Adjusted_01 (1)_6
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 364
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b11fef2355d103c0800000000000000
+      internalID: -4394997208073694797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBOT-Adjusted_01 (1)_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 314
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3175247a06629f5b0800000000000000
+      internalID: -5334190087078783213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBOT-Adjusted_01 (1)_8
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 320
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc33744c1ac3b5e0800000000000000
+      internalID: -1894948795436548928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBOT-Adjusted_01 (1)_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 318
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69440255694e17040800000000000000
+      internalID: 4643744025120097430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBOT-Adjusted_01 (1)_10
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 314
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476c022efb8d14f30800000000000000
+      internalID: 4558162616519804532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBOT-Adjusted_01 (1)_11
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 314
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a23440eceba27f0800000000000000
+      internalID: -636486605275452870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBOT-Adjusted_01 (1)_12
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 319
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c77c1a540bb2de0800000000000000
+      internalID: -1356797049608635243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBOT-Adjusted_01 (1)_13
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 318
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472bf82a4600a5ae0800000000000000
+      internalID: -1559933888706399628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBOT-Adjusted_01 (1)_14
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 314
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b95f880e744691f0800000000000000
+      internalID: -1038567355962140236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBOT-Adjusted_01 (1)_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 269
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0b1a663d4fe6020800000000000000
+      internalID: 2337074445449015508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBOT-Adjusted_01 (1)_16
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 268
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7566c8ea1e5ce8c20800000000000000
+      internalID: 3210721157448492631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBOT-Adjusted_01 (1)_17
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 262
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3dca213183dc8380800000000000000
+      internalID: -8967560206172369606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBOT-Adjusted_01 (1)_18
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 261
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed94a2a33bf37f20800000000000000
+      internalID: 3419352741294939620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBOT-Adjusted_01 (1)_19
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 261
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0df78c8b5ae75f0800000000000000
+      internalID: -756985474295279452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBOT-Adjusted_01 (1)_20
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 209
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322ce672d177f0810800000000000000
+      internalID: 1733735348660257315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBOT-Adjusted_01 (1)_21
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 209
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4941cde9f5ed0f0800000000000000
+      internalID: -1090328923875273524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBOT-Adjusted_01 (1)_22
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 209
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8620803f7a4a36f20800000000000000
+      internalID: 3414753983720850024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBOT-Adjusted_01 (1)_23
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 209
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcaefd04ecccc5520800000000000000
+      internalID: 2692251863484459723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBOT-Adjusted_01 (1)_24
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 209
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2f64db2abe02bd0800000000000000
+      internalID: -2656864695955819804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBOT-Adjusted_01 (1)_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 165
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938596f95dd254df0800000000000000
+      internalID: -196700613194983367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBOT-Adjusted_01 (1)_26
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 164
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a0e57bc82ae0a10800000000000000
+      internalID: 1877616819915590226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBOT-Adjusted_01 (1)_27
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 167
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a7cdc7791f5ef10800000000000000
+      internalID: 2298508817779686040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBOT-Adjusted_01 (1)_28
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 168
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a61a82d9f4d9cb50800000000000000
+      internalID: 6614051697214494377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBOT-Adjusted_01 (1)_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 165
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f0ecc0932fbe500800000000000000
+      internalID: 426700916558532396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBOT-Adjusted_01 (1)_30
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 107
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff526ed01eabe880800000000000000
+      internalID: -8580573277550649351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBOT-Adjusted_01 (1)_31
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 106
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddaf2237e202e080800000000000000
+      internalID: -9159755500115481131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBOT-Adjusted_01 (1)_32
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 107
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15969208c7fc5e1e0800000000000000
+      internalID: -2169099511875933871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBOT-Adjusted_01 (1)_33
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 106
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122907f2448a19ac0800000000000000
+      internalID: -3850111195617914335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBOT-Adjusted_01 (1)_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 58
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408968aa43d798ad0800000000000000
+      internalID: -2699488836479182844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBOT-Adjusted_01 (1)_35
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 58
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6238b91a56c6d99d0800000000000000
+      internalID: -2765935412376796378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBOT-Adjusted_01 (1)_36
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 58
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f75258aa7db42d0800000000000000
+      internalID: -3293301575113146515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBOT-Adjusted_01 (1)_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 6
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92f70bcc887f7030800000000000000
+      internalID: 3494644381959844509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBOT-Adjusted_01 (1)_38
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 6
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7baac2ee670f8cd40800000000000000
+      internalID: 5604994129855294135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBOT-Adjusted_01 (1)_39
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 22
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa33640f6a1027660800000000000000
+      internalID: 7381964555720995754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBOT-Adjusted_01 (1)_40
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 25
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f9c92d5bb2e9a00800000000000000
+      internalID: 765097046622117786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBOT-Adjusted_01 (1)_41
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 27
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d65659217e65d990800000000000000
+      internalID: -7361856583563323691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBOT-Adjusted_01 (1)_42
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 25
+        width: 127
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19156e089f7d1f960800000000000000
+      internalID: 7634120309979107729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
